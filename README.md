@@ -4,7 +4,7 @@
 
 ⚡ Fun fact: There is always room for improvement as professionals and as individuals, but it will not be achieved until we start working on our day-to-day processes instead of focusing solely on long-term goals. So, just consider whether what you are doing now is something that truly impassions you, and that goal will be achieved in due time! 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=josh-hrr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=josh-hrr)](https://github.com/josh-hrr/github-readme-stats)
 
 
 <!--
