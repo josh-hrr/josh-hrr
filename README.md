@@ -1,6 +1,6 @@
 ### Hi, 👋 I am Josue Herrera, currently Software QA Engineer and Computer Science student. 
-### 🌱 I am interested in achieving expertise in coding and test automation frameworks to enhance software product quality by following a concise testing process that can contribute to the team's achievements and success.
-### ⚡ Fun fact: There is always room for improvement as professionals and as individuals, but it will not be achieved until we start working on our day-to-day processes instead of focusing solely on long-term goals. So, just consider whether what you are doing now is something that truly impassions you, and that goal will be achieved in due time! 
+🌱 I am interested in achieving expertise in coding and test automation frameworks to enhance software product quality by following a concise testing process that can contribute to the team's achievements and success.
+⚡ Fun fact: There is always room for improvement as professionals and as individuals, but it will not be achieved until we start working on our day-to-day processes instead of focusing solely on long-term goals. So, just consider whether what you are doing now is something that truly impassions you, and that goal will be achieved in due time! 
 
 
 <!--
