@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josue Herrera.</h1>
 <h3 align="center">Currently Software Developer and QA Engineer and Computer Science student.</h3>
-<img src="https://www.codewars.com/users/J0shua1/badges/micro" alt="codeWars" width="40" height="40"/> </a>
+<p algin="center"><img src="https://www.codewars.com/users/J0shua1/badges/large" alt="codeWars" width="40" height="40"/></p> 
 
 - 🌱 I am interested in **achieving expertise in coding and test automation frameworks to enhance software product quality by following a concise testing process that can contribute to the team's achievements and success.**
 
