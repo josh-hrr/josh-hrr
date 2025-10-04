@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josue Herrera.</h1>
-<h3 align="center">Currently Software Developer and QA Engineer and Computer Science student.</h3>
+<h3 align="center">Currently Software Engineer, Tester and Computer Science student.</h3>
 
 - 🌱 I am interested in **achieving expertise in coding and test automation frameworks to enhance software product quality by following a concise testing process that can contribute to the team's achievements and success.**
 
